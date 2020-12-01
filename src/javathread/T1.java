@@ -16,7 +16,7 @@ public class T1 extends Thread{
     public T1(String s) {
 
         this.s=s;
-        this.start(); //il costruttore viene inizializzato e si autoavvia
+       
     }
      
     //metodo che viene eseguito all'avvio del processo
